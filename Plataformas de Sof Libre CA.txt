@@ -1,0 +1,27 @@
+Las plataformas de software libre, también conocidas como software de código abierto,
+son aquellas que permiten a los usuarios usar, modificar, distribuir y mejorar el software
+libremente. Esto contrasta con el software propietario, donde el usuario tiene limitaciones 
+en el uso, modificación y distribución. 
+
+En detalle:
+Libertad de uso:
+Los usuarios pueden ejecutar el software para cualquier propósito. 
+Libertad de acceso y modificación:
+El código fuente del software es accesible, lo que permite a los usuarios examinar, modificar y adaptar el software a sus necesidades. 
+Libertad de distribución:
+Los usuarios pueden distribuir copias del software, con o sin modificaciones. 
+Libertad de mejora:
+Los usuarios pueden contribuir a la mejora del software, compartiendo sus 
+modificaciones y contribuciones con la comunidad. 
+Colaboración abierta:
+El desarrollo y mantenimiento del software libre se basan en la colaboración abierta de 
+usuarios y desarrolladores. 
+Transparencia y seguridad:
+El acceso al código fuente permite una revisión más exhaustiva del software, lo que 
+puede ayudar a identificar y corregir errores de seguridad con mayor rapidez. 
+Mayor flexibilidad:
+El software libre permite a los usuarios adaptarse a diferentes necesidades y 
+requerimientos. 
+Beneficios económicos:
+En muchos casos, el software libre es gratuito o de bajo costo, lo que puede resultar 
+en ahorros para empresas y organizaciones. 
